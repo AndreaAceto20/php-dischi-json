@@ -1,0 +1,30 @@
+[
+    {
+        "title" : "Innuendo (2011 Remastered)",
+        "author" : "Queen",
+        "cover" : "./photos/Innuendo_Queen.jpg",
+        "date" : "1991",
+        "genre" : "Rock"
+    },
+    {
+        "title" : "Take Me Back To Eden",
+        "author" : "Sleep Token",
+        "cover" : "./photos/Take_Me_Back_To_Eden_Sleep_Token.jpeg",
+        "date" : "2023",
+        "genre" : "Rock - Metal"
+    },
+    {
+        "title" : "Bangarang EP",
+        "author" : "Skrillex",
+        "cover" : "./photos/Bangarang_EP_Skrillex.jpg",
+        "date" : "2011",
+        "genre" : "elettronic"
+    },
+    {
+        "title" : "Harry Styles",
+        "author" : "Harry Styles",
+        "cover" : "./photos/Harry_Styles_Harry_Styles.jpeg",
+        "date" : "2017",
+        "genre" : "Pop"
+    }
+]
