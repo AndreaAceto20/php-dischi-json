@@ -1,4 +1,4 @@
-<?php 
+<?php
 
 $file = file_get_contents('./records.json');
 
